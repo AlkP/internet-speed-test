@@ -1,0 +1,3 @@
+__pycache__/\n*.py[cod]\n.venv/\nvenv/\n.env\n
+
+.idea
